@@ -1,0 +1,10 @@
+h:\moxiang(c)_new\[client]mh\guildmanager.cpp line:1350, msg:Fail To Load a File : GuildLevel, time:12월/17일 8시48분35.938초
+h:\moxiang(c)_new\[client]mh\shoppingmallmanager.cpp line:39, time:12월/17일 8시48분35.938초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분36.101초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분36.102초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분36.102초
+h:\moxiang(c)_new\[client]mh\guildmanager.cpp line:1350, msg:Fail To Load a File : GuildLevel, time:12월/17일 8시48분49.76초
+h:\moxiang(c)_new\[client]mh\shoppingmallmanager.cpp line:39, time:12월/17일 8시48분49.76초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분49.234초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분49.234초
+h:\moxiang(c)_new\[client]mh\interface\cwindowmanager.cpp line:733, msg:AddWindow::범위를 벗어나는 윈도우 아이디 등록, time:12월/17일 8시48분49.235초

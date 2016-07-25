@@ -1,0 +1,15 @@
+如何使用：
+
+//记得要把update.xml丢进 客户端
+
+1.)自己把里面127.0.0.1改成自己的ip 
+2.)update.xml 档案务必放在 wamp 的 www文件夹里 (或者iis的 也可以)
+3.)墨香的mh-client.exe (Gm工具登入器)改名去 TMMS.exe
+
+
+实现伪更新：
+
+//侦测游戏是否有更新主要是靠update.xml里面的patch号
+
+1.) 主机www文件夹内的update.xml里头的 <patch> 号 +1 (例子：0 的话 +1 过后就变 1 以此类推）
+2.) 把你要给玩家下载更新的档案(包括刚刚改了patch号的xml)都压缩在 .exe 内 （用winrar压缩成.exe），然后丢进主机的www文件夹（与update.xml一起）
